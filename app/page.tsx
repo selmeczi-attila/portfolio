@@ -29,7 +29,7 @@ export default function Home() {
             applications.
           </p>
 
-          <Available isAvailable={false} />
+          <Available isAvailable={true} />
 
           <div className="space-x-3">
             <a href="https://github.com/selmeczi-attila" target="_blank">
