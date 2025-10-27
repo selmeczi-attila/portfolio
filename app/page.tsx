@@ -52,7 +52,7 @@ export default function Home() {
 
       <h1 className="text-4xl font-bold text-center">Projects</h1>
 
-      <div className="flex justify-center">
+      <div className="flex justify-center pb-15">
         <div className="flex flex-col items-center justify-center h-fit max-w-100 min-w-75 w-[40vw] mt-[5vh] bg-[#2F2F37] outline-2 outline-[#383842] rounded-md shadow-2xl p-5">
           <p className="font-bold">CleanCo</p>
 
